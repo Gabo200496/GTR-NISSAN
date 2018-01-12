@@ -1,0 +1,33 @@
+body{
+
+	background-color: #000000;
+}
+title{
+
+	color: white;
+
+}
+h1{
+	color: white
+}
+h3{
+		color: white
+
+}
+h2{
+		color: white
+
+
+}
+
+p{
+		color: white
+
+
+
+}
+
+
+p > span { color: blue; }
+ h2 { color: green; }
+h1 + h2 { color: red }
